@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="stylesheet" href="style.css" />
-<title>TRABAJO GRUPAL</title>
-</head>
-<body>
-
     <table border="2" align="center">
     <tr>
     <td align="center" width=100px><H4>ALUMNO</H4></td>
@@ -37,5 +27,3 @@
     <td align="center"><H4>7.35</H4></td>
     </tr>
     </table>
-</body>
-</html>
